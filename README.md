@@ -13,3 +13,6 @@ This script only works under ArchLinux.
     ./qr_wifi.py --help
 
 ## License
+
+[The Unlicense](http://unlicense.org/)
+
